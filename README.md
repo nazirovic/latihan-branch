@@ -1,3 +1,3 @@
 # latihan-branch
 
-Latihan branching pada github
+Latihan branching pada github pada platform Dicoding
